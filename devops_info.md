@@ -151,7 +151,6 @@ windows | linux |
   - **/sbin** it contains command used by root
   - **/opt** optional applocation software package 
   - **/dev** essential device files this include terminal devices,usb etc
-age bad ma kry g
 
 
 
